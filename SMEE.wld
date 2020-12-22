@@ -6379,11 +6379,11 @@
 160
 9
 "W0/W0LVL2.lvlx"
-"Labirynth Caves"
+"Into the broken pipe"
+8
 -1
 -1
--1
--1
+4
 0
 #FALSE#
 #FALSE#
@@ -6392,4 +6392,7 @@
 -1
 #FALSE#
 "next"
+896
+160
+4
 "next"
