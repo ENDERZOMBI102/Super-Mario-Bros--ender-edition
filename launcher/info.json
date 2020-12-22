@@ -1,0 +1,6 @@
+{
+	"current-version": [1, 0, 0],
+	"update-check-website": "https://",
+	"allowedCharacters": ["Mario", "Luigi"],
+	"allowTwoPlayer": true
+}
