@@ -1,0 +1,9 @@
+{
+	"mainPage": "index.html",
+	"allowPlayerSelection" : false,
+	"allowTwoPlayer": true,
+	"allowSaveSelection" : true,
+	"episodeIcon": "icon.png",
+	"current-version": [1, 0, 0],
+	"allowedCharacters": [1, 2]
+}
