@@ -2,7 +2,7 @@ HEAD
 TL:"W0LVL2";CPID:"SMBX2";
 HEAD_END
 SECTION
-SC:0;L:-200000;R:-194720;T:-200864;B:-200000;MZ:4;MF:"";BG:30;
+SC:0;L:-200000;R:-194720;T:-200864;B:-200000;MZ:4;MF:"";BG:7;
 SC:1;L:-180000;R:-179200;T:-181856;B:-176160;MZ:4;MF:"";BG:7;XTRA:"{\n    \"darkness\"\: {\n        \"enableDarkness\"\: false\,\n        \"falloff\"\: 0\,\n        \"maxlights\"\: 60\,\n        \"playerlight\"\: {\n            \"enabled\"\: false\,\n            \"radius\"\: 127\n        }\,\n        \"shadows\"\: 1\n    }\n}\n";
 SC:2;L:-160000;R:-159136;T:-160600;B:-160000;MZ:1;MF:"";BG:10;XTRA:"{\n    \"darkness\"\: {\n        \"maxlights\"\: 63\n    }\n}\n";
 SC:3;L:-140000;R:-139200;T:-140600;B:-140000;MZ:1;MF:"";BG:2;XTRA:"{\n    \"darkness\"\: {\n        \"falloff\"\: 2\,\n        \"maxlights\"\: 58\,\n        \"playerlight\"\: {\n            \"brightness\"\: 0\n        }\n    }\n}\n";
